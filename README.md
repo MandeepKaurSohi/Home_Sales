@@ -12,9 +12,7 @@ PySpark (SparkSQL)
 
 AWS S3
 
-Pandas
-
-Jupyter Notebook
+Google Colab
 
 ## Instructions
 
